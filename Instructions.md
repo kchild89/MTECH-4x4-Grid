@@ -1,0 +1,1 @@
+For this project you will create a 4x4 grid of boxes(Use jQuery to populate these boxes onto the page). When one of these boxes is clicked the background color of that box should change. If that same box is clicked again the background color should go back to what it was before.
